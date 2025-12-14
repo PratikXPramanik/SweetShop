@@ -1,0 +1,20 @@
+{
+  "name": "mithai-bazaar-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest --coverage --verbose"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.19.0",
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.4.0",
+    "nodemon": "^3.0.0"
+  }
+}
