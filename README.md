@@ -62,7 +62,36 @@ Customers can browse and purchase sweets, while administrators can manage invent
 - **React** – Functional components with hooks  
 - **Axios** – HTTP client  
 - **Lucide React** – Icon library  
-- **Plain CSS** – Styling  
+- **Plain CSS** – Styling
+## 🚀 Setup Instructions
+
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB Atlas account
+- npm or yarn
+
+
+### Backend Setup
+
+
+cd backend
+npm install
+cp .env.example .env
+## 🤖 My AI Usage
+
+### AI Tools Used
+- **ChatGPT**
+- **Google Gemini**
+
+### How I Used AI
+- I used **ChatGPT** to understand the overall system design and project structure of a MERN stack application, including how controllers, services, routes, and middleware work together.
+- ChatGPT also helped me debug errors and resolve problems faced during development, such as API issues, test failures, and logical mistakes while implementing features using TDD.
+- I used **Google Gemini** mainly for UI/UX-related guidance, such as layout ideas, component structuring, user flow suggestions, and improving the visual organization of the frontend.
+- Both tools were used as learning aids to clarify concepts and explore best practices, not to directly copy complete solutions.
+
+### Reflection
+Using AI tools improved my understanding of full-stack development by speeding up problem-solving and helping me visualize better design and structure. ChatGPT strengthened my backend logic and debugging skills, while Gemini contributed to improving the UI/UX quality of the application. Overall, AI enhanced my productivity and learning without replacing hands-on coding or decision-making.
+
 
 ---
 
